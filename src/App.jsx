@@ -28,7 +28,7 @@ import React from "react";
 // import Axios from "./projects/Axios";
 // import BMI from "./projects/BMI";
 // import PasswordGenerator from "./projects/PasswordGenerator";
-import PasswordGenerator2 from "./projects/PasswordGenerator2";
+import PasswordGenerator2 from "./PasswordGenerator2";
 
 const App = () => {
   // const data = [
